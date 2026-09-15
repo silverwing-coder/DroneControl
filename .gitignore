@@ -1,0 +1,12 @@
+.env
+.env.local
+config.json
+config.js
+config.py
+settings.json
+.venv
+__pycache__
+.vscode
+.idea
+*.csv
+*.dat
